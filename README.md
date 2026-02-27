@@ -31,7 +31,7 @@ Atualmente explorando o universo Full Stack e os fundamentos da Cibersegurança.
 
 ### 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=DKBR1521&show_icons=true&theme=radical&hide_border=true)
+![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=DKBR1521&show_icons=true&theme=dark&hide_border=true&title_color=236ad3&icon_color=236ad3&text_color=ffffff)
 
 ### 🐍 Snake Pit:
 
