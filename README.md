@@ -35,8 +35,8 @@ Atualmente explorando o universo Full Stack e os fundamentos da Cibersegurança.
 
 ### 🐍 Snake Pit:
 
-<a href="https://discord.com/users/SEU_ID_DO_DISCORD" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+<a href="https://discord.com/users/944990190458507284" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-236ad3?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 
 ---
